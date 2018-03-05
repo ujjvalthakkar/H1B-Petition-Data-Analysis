@@ -1,0 +1,14 @@
+0-30000 Failure Range	4829
+0-30000 Success Range	23268
+100000- Above Failure Range	21486
+100000- Above Success Range	296864
+30000-60000 Failure Range	77144
+30000-60000 Success Range	1031834
+60000-70000 Failure Range	33140
+60000-70000 Success Range	613137
+70000-80000 Failure Range	22702
+70000-80000 Success Range	406501
+80000-90000 Failure Range	14815
+80000-90000 Success Range	263342
+90000-100000 Failure Range	10010
+90000-100000 Success Range	183386
